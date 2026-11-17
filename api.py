@@ -35,3 +35,8 @@ def calcular_compra(compra: Compra):
         "subtotal": round(subtotal, 2),
         "total": total
     }
+
+@app.get("/version")
+def obtener_version():
+    return {"aplicación": "Tienda DevOps",
+            "version": "1.0.0"}
