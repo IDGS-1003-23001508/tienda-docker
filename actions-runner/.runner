@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 21,
+  "agentName": "PABLO",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/HMpajYyL9wwGkcpcx9WN4RdfBtnViT5vF7LEDKkRhGlNl5I7VE/",
+  "gitHubUrl": "https://github.com/IDGS-1003-23001508/tienda-docker",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
